@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "hospital_name": "CityCare Hospital",
+    "efficiency_score": 85,
+    "patient_satisfaction": 78,
+    "claims_approved": 320,
+    "claims_rejected": 45,
+    "avg_wait_time": 25,
+    "treatment_success_rate": 92,
+    "total_patients": 1250,
+    "emergency_cases": 180
+  },
+  {
+    "id": 2,
+    "hospital_name": "MetroHealth Center",
+    "efficiency_score": 78,
+    "patient_satisfaction": 82,
+    "claims_approved": 280,
+    "claims_rejected": 38,
+    "avg_wait_time": 32,
+    "treatment_success_rate": 88,
+    "total_patients": 980,
+    "emergency_cases": 145
+  },
+  {
+    "id": 3,
+    "hospital_name": "Regional Medical Institute",
+    "efficiency_score": 92,
+    "patient_satisfaction": 85,
+    "claims_approved": 410,
+    "claims_rejected": 28,
+    "avg_wait_time": 18,
+    "treatment_success_rate": 95,
+    "total_patients": 1580,
+    "emergency_cases": 220
+  },
+  {
+    "id": 4,
+    "hospital_name": "Community Health Center",
+    "efficiency_score": 72,
+    "patient_satisfaction": 71,
+    "claims_approved": 195,
+    "claims_rejected": 52,
+    "avg_wait_time": 38,
+    "treatment_success_rate": 84,
+    "total_patients": 720,
+    "emergency_cases": 98
+  },
+  {
+    "id": 5,
+    "hospital_name": "University Hospital",
+    "efficiency_score": 88,
+    "patient_satisfaction": 80,
+    "claims_approved": 365,
+    "claims_rejected": 42,
+    "avg_wait_time": 22,
+    "treatment_success_rate": 91,
+    "total_patients": 1420,
+    "emergency_cases": 195
+  },
+  {
+    "id": 6,
+    "hospital_name": "Sunrise Medical Center",
+    "efficiency_score": 81,
+    "patient_satisfaction": 76,
+    "claims_approved": 295,
+    "claims_rejected": 48,
+    "avg_wait_time": 28,
+    "treatment_success_rate": 89,
+    "total_patients": 1080,
+    "emergency_cases": 162
+  }
+]
